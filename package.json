@@ -21,12 +21,12 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aamirkhan-1/upc-barcode-validator"
+    "url": "https://github.com/aamirkhancr7/upc-barcode-validator"
   },
   "bugs": {
-    "url": "https://github.com/aamirkhan-1/upc-barcode-validator/issues"
+    "url": "https://github.com/aamirkhancr7/upc-barcode-validator/issues"
   },
-  "homepage": "https://github.com/aamirkhan-1/upc-barcode-validator#readme",
+  "homepage": "https://github.com/aamirkhancr7/upc-barcode-validator#readme",
   "scripts": {
     "start": "vite",
     "build": "vite build",
