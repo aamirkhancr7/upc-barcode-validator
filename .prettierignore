@@ -1,0 +1,8 @@
+node_modules
+dist
+.idea
+.vscode
+reports
+tar
+pnpm-lock.yaml
+renovate.json5
