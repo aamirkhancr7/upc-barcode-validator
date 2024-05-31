@@ -1,6 +1,6 @@
 {
   "name": "upc-barcode-validator",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "author": "aamirkhan-1",
   "files": [
     "dist/"
